@@ -1,0 +1,11 @@
+npm install bootstrap jquery popper.js --S
+adding in angular.json file 
+in "test" & "build"=> 
+"styles" =>  "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+in "scripts" =>"./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/popper.js/dist/umd/popper.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js"
+
+
+npm install font-awesome --save
+"node_modules/font-awesome/css/font-awesome.css",
